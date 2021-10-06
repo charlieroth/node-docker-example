@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR /cache-api
+WORKDIR /api
 
 COPY package*.json .
 
